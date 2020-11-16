@@ -2,7 +2,7 @@
 
 ----
 
-- ### First
+- ### First *(done)*
 
   - Write a function that adds up all the numbers of an array only if they are positive. Negative values are excluded.
 
